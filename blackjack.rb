@@ -142,7 +142,7 @@ while true
 		puts "\nYou Lose!"
 		break
 	end
-
+# making ccomment
 	# This is just a stop so that the program doesn't just run the whole program in one shot,
 	# This way it will stop after each hand and wait for you to press enter to continue
 	puts "\nPress 'Enter' for next hand"
